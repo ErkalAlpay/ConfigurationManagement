@@ -1,0 +1,12 @@
+C:\Users\Erkal\Desktop\OrderManagement\Configuration.Core\bin\Debug\net8.0\Configuration.Core.deps.json
+C:\Users\Erkal\Desktop\OrderManagement\Configuration.Core\bin\Debug\net8.0\Configuration.Core.dll
+C:\Users\Erkal\Desktop\OrderManagement\Configuration.Core\bin\Debug\net8.0\Configuration.Core.pdb
+C:\Users\Erkal\Desktop\OrderManagement\Configuration.Core\obj\Debug\net8.0\Configuration.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erkal\Desktop\OrderManagement\Configuration.Core\obj\Debug\net8.0\Configuration.Core.AssemblyInfoInputs.cache
+C:\Users\Erkal\Desktop\OrderManagement\Configuration.Core\obj\Debug\net8.0\Configuration.Core.AssemblyInfo.cs
+C:\Users\Erkal\Desktop\OrderManagement\Configuration.Core\obj\Debug\net8.0\Configuration.Core.csproj.CoreCompileInputs.cache
+C:\Users\Erkal\Desktop\OrderManagement\Configuration.Core\obj\Debug\net8.0\Configuration.Core.dll
+C:\Users\Erkal\Desktop\OrderManagement\Configuration.Core\obj\Debug\net8.0\refint\Configuration.Core.dll
+C:\Users\Erkal\Desktop\OrderManagement\Configuration.Core\obj\Debug\net8.0\Configuration.Core.pdb
+C:\Users\Erkal\Desktop\OrderManagement\Configuration.Core\obj\Debug\net8.0\ref\Configuration.Core.dll
+C:\Users\Erkal\Desktop\OrderManagement\Configuration.Core\obj\Debug\net8.0\Configuration.Core.csproj.AssemblyReference.cache
